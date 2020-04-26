@@ -1,1 +1,3 @@
-console.log("Hola Mundo :d ")
+function hola (){
+    return console.log(":3")
+}
